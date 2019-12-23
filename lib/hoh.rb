@@ -35,21 +35,6 @@ def naming_system
 
     }
   }
-  part_2 = {
-  label: "Order"
-}
-
-  part_3 = {
-  label: "Family",
-  sub_category: {
-    label: "Genus",
-  }
-}
-
-  part_4 = {
-  label: "Species",
-  sub_category: nil
-}
 
   
   kingdom
